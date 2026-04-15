@@ -49,7 +49,7 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
  
 9. Contact
 If you have any questions about this Privacy Policy, you can contact us at:
-Email: support@fitzstudio.app
+Email: support@viakron.com
 Website: https://fitzstudio.app
  
 Summary
