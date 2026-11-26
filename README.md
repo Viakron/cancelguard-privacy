@@ -1,4 +1,11 @@
 # cancelguard-privacy
+
+**This policy has moved.** The current CancelGuard Privacy Policy is at
+**https://www.fitzstudio.app/cancelguard/privacy**. The text below is an
+earlier version and is no longer updated.
+
+---
+
 Privacy Policy for CancelGuard
 1. Information We Collect
 CancelGuard is designed to be simple and privacy-friendly.
